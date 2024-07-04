@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506736192171",
+    "project_id": "flutterfireterbaru",
+    "storage_bucket": "flutterfireterbaru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506736192171:android:530fb5fa46ef8fc85ae5ee",
+        "android_client_info": {
+          "package_name": "com.example.flutterlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsw0Oc7WCXGDMDHw9WxBMIeZT41G9B0GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
